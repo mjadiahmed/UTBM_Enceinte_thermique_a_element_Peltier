@@ -1,3 +1,8 @@
+/*Project: enceinte thermique à élelemnt Peltier 
+By: Ahmed MJADI
+UTBM 20-21
+*/
+
 
 #include <SimpleTimer.h>
 SimpleTimer timer;                 // Timer pour échantillonnage
