@@ -1,4 +1,4 @@
-# UTBM_Enceinte_thermique_-_-l-ment_Peltier
+# UTBM_Enceinte_thermique_a_element_Peltier
 Enceinte thermique à élément Peltier
 
   Notre projet sert à réaliser une enceinte thermique à moindre coût, avec une performance acceptable, pour étudier les batteries Li-Ion.
